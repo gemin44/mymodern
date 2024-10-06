@@ -1,0 +1,13 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  background-color: bisque;
+  color: blue;
+  text-align: center;
+  padding: 75px;
+  width: 500px;
+  margin: auto;
+  font-style: oblique;
+}
